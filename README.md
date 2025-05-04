@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hey I'm vemorr 👋
-## coding things at 13
 ![](https://komarev.com/ghpvc/?username=vemorr&color=blueviolet)
 
 <img src="https://discord.c99.nl/widget/theme-4/998175917983682622.png"></img>
